@@ -1,5 +1,6 @@
+
 venv/
 __pycache__/
 *.pyc
-frontend-livros/node_modules/
-frontend-livros/dist/
+node_modules/
+dist/
